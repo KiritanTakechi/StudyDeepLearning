@@ -1,0 +1,2 @@
+# StudyDeepLearning
+Some AI trash
